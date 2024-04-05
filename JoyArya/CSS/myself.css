@@ -432,14 +432,14 @@ svg {
   box-shadow: 2px -2px 4px #333333 inset,
     0px 0px 3px var(--primary-dark-color-100);
 }
-.social-contact ion-icon {
+.social-contact_icons{
   border-radius: 50%;
   padding: 5px;
   transition: all 0.3s linear;
   box-shadow: 1px 1px 1px var(--primary-dark-color-100),
     inset 1px 1px 5px var(--primary-dark-color-50);
 }
-.social-contact ion-icon:hover {
+.social-contact:hover {
   color: var(--primary-dark);
   box-shadow: 0 0 5px var(--primary-dark);
   transform: scale(0.95);
